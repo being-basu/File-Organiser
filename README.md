@@ -25,7 +25,7 @@ Your folder will be organized automatically! 🎉
 
 🗃️Archives: .zip, .rar, .tar, .gz
 
-👉 ![File Organizer Demo GIF](./file-org-demo.gif)
+👉 ![File Organizer Demo GIF](https://github.com/being-basu/File-Organiser/blob/28f93c8b91504636b6aa56736b46870a9bb572a2/file-org-demo.gif)
 
 
 
