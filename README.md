@@ -24,3 +24,6 @@ Your folder will be organized automatically! 🎉
 🎵Music: .mp3, .wav
 
 🗃️Archives: .zip, .rar, .tar, .gz
+
+![File Organizer Demo](file-org-demo .gif)
+
